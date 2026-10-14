@@ -1,7 +1,9 @@
 # Data Science를 활용한 북한의 다층적 안보 위협 분석
+## 🏆 National Intelligence Service
+This project was selected as a award by Korean National Intelligence Service (NIS) in 2025.
 
 본 프로젝트는 북한의 군사적 도발과 사이버 위협 활동을 Data Science 방법론을 통해 분석하고 예측하는 연구이다.<br>
-북한 관영매체, 국제 언론(BBC), Dark Web 데이터를 통합 분석하여, 머신러닝 기반의 군사 도발 예측 모델과 사이버 위협 연관성 분석을 수행한다.
+북한 관영매체, 국제 언론(BBC), Dark Web 데이터를 통합 분석하여, 머신러닝 기반의 군사 도발 예측 모델과 사이버 위협 연관성 분석을 수행한다.<br>
 
 ---
 
